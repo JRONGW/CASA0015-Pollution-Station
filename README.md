@@ -6,15 +6,16 @@ An app engages environmental detection with dashboard visualisation, supplement 
 
 [https://www.youtube.com/shorts/a9Jv_l_jlvU](https://youtube.com/shorts/a9Jv_l_jlvU?si=6rSVU2raM2DqHOyL)
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Homepage:** Navigating to the subpages with a welcoming text and a spinning model of astronaut holding a plant.
+- **Connection & Indicators:** Connecting and selecting the indicators for dashboard display.
+- **Dashboard:** Showing the chart for selected indicators and give suggestions on eliminating the harm.
+- **Supplements & Reminders:** Suggested Supplement list and reminder setting function.
+- **Physical tests:** Suggestions on links to physical tests to quantitize the harm of pollution.
 
-A few resources to get you started if this is your first Flutter project:
+## StoryBoarding
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/omg-img-path/Md3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
