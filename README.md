@@ -1,4 +1,4 @@
-# Environment ApP
+# Environmental Detection App
 
 A new Flutter project.
 
