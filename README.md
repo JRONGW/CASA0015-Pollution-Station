@@ -1,6 +1,8 @@
 # Environmental Detection App
 
-A new Flutter project.
+An app engages environmental detection with dashboard visualisation, supplement suggestions, supplement purchasing and physical examination links.
+
+<img width="611" height="1289" alt="image" src="https://github.com/user-attachments/assets/8caa8e5e-d6a0-4d42-90fe-12530af6ac7d" />
 
 [https://www.youtube.com/shorts/a9Jv_l_jlvU](https://youtube.com/shorts/a9Jv_l_jlvU?si=6rSVU2raM2DqHOyL)
 
