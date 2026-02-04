@@ -1,4 +1,4 @@
-# Environmental Detection App
+# Environmental Detection App - Pollution Station
 
 
 ## Introduction
