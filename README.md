@@ -21,6 +21,9 @@ An app engages environmental detection with dashboard visualisation, supplement 
 
 ## StoryBoarding
 
-
+### Lo-Fi Sketch
 ![PrototypeEnvironmentalSensors](https://github.com/user-attachments/assets/d0d82dcb-797c-41e7-a66d-34dc709e4e99)
+
+### High-Fi Sketch
+<img width="2144" height="978" alt="Prototype Storyboard" src="https://github.com/user-attachments/assets/d151526a-d437-4172-bf5c-acb5a810cb29" />
 
