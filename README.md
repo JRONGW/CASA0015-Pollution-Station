@@ -16,6 +16,6 @@ An app engages environmental detection with dashboard visualisation, supplement 
 
 ## StoryBoarding
 
-![image](https://seniorassistant.oss-cn-hangzhou.aliyuncs.com/omg-img-path/Md3.png)
 
+![PrototypeEnvironmentalSensors](https://github.com/user-attachments/assets/d0d82dcb-797c-41e7-a66d-34dc709e4e99)
 
